@@ -1,4 +1,4 @@
-#This is the documentation of my python learning, starting from basic knowledge.
+#This is the documentation of my python learning starting from basic knowledge.
 
 
 #Dictonaries are like lists consisting of key value pairs.
